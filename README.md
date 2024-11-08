@@ -15,4 +15,9 @@
 <br>
 <br>
 [فصل 5 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1wr2V3lli6m-xPxk7uhmU6IFJ8VYmsMFU/view?usp=sharing)
+<br>
+<br>
+<br>
+[فصل 6 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1j5P3pqERRYgTUvO7b_IbS_yBZpPTsWUu/view?usp=sharing)
+
 
