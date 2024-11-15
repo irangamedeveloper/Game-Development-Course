@@ -20,4 +20,9 @@
 <br>
 [فصل 6 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1j5P3pqERRYgTUvO7b_IbS_yBZpPTsWUu/view?usp=sharing)
 
+<br>
+<br>
+<br>
+[فصل 7 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1NHTeeQtKCZ7laLS2FqIoLqwdzKsKbpn-/view?usp=sharing)
+
 
