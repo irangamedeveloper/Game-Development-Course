@@ -24,4 +24,12 @@
 <br>
 [فصل 7 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1NHTeeQtKCZ7laLS2FqIoLqwdzKsKbpn-/view?usp=sharing)
 
+<br>
+<br>
+<br>
+[فصل 8 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1KJgb9cv07VX1W_SU0icnTciUvksz-skH/view?usp=sharing)
 
+<br>
+<br>
+<br>
+[فصل 9 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1lH-Bk1yYg0tQACEitSHDC1DFazX6V5gq/view?usp=sharing)
