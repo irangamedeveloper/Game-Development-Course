@@ -27,7 +27,6 @@
 <br>
 <br>
 [فصل 8 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1KJgb9cv07VX1W_SU0icnTciUvksz-skH/view?usp=sharing)
-
 <br>
 <br>
 <br>
