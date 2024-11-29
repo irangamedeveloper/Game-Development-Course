@@ -31,3 +31,7 @@
 <br>
 <br>
 [فصل 9 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1lH-Bk1yYg0tQACEitSHDC1DFazX6V5gq/view?usp=sharing)
+<br>
+<br>
+<br>
+[فصل 10 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1db9PfKO-dVNHsMmBwdJTbRiEYD8v-eg7/view)
