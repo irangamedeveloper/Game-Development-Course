@@ -37,7 +37,6 @@
 [فصل 10 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1db9PfKO-dVNHsMmBwdJTbRiEYD8v-eg7/view)
 
 ## راهنمای پروژه و امتحان عملی
-
 <br>
 <br>
 <br>
