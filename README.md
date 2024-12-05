@@ -80,3 +80,7 @@
 <br>
 <br>
 [فیلم 9](https://drive.google.com/file/d/14DMnEp27VCheCKsh8I289PA3Ag6Ylz7a/view?usp=sharing)
+<br>
+<br>
+<br>
+[راهنمای امتحان](https://drive.google.com/file/d/1UcrZeuEaNVKU8LbhO9lIY7kd7I5Obsiq/view)
