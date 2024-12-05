@@ -35,6 +35,10 @@
 <br>
 <br>
 [فصل 10 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1db9PfKO-dVNHsMmBwdJTbRiEYD8v-eg7/view)
+<br>
+<br>
+<br>
+[فصل 11 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1bbrTk0eSLhft7fpKa6UwifVUehAGPY5T/view)
 ## راهنمای پروژه و امتحان عملی
 
 
