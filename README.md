@@ -49,3 +49,8 @@
 <br>
 
 [فصل 13 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1CaOUku_9ErhatB27NuXqR1bBH-O6v8zO/view?usp=sharing)
+<br>
+<br>
+<br>
+
+[فصل 14 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1uyrEV_SAWy0QuCL2GUDjgy9UXzNUtAkE/view?usp=sharing)
