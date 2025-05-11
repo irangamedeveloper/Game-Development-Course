@@ -98,4 +98,4 @@
 <br>
 <br>
 <br>
-[راهنمای امتحان](https://drive.google.com/file/d/1UcrZeuEaNVKU8LbhO9lIY7kd7I5Obsiq/view)
+[راهنمای امتحان](https://drive.google.com/file/d/1Rei6F-MAREz4RZguVO06mKCLdcBqTMeb/view?usp=sharing)
