@@ -54,3 +54,48 @@
 <br>
 
 [فصل 14 از درس برنامه‌نویسی بازی‌های رایانه‌ای](https://drive.google.com/file/d/1uyrEV_SAWy0QuCL2GUDjgy9UXzNUtAkE/view?usp=sharing)
+## راهنمای پروژه و امتحان عملی
+
+
+
+<br>
+<br>
+<br>
+
+[فیلم 1](https://drive.google.com/file/d/13lMWRewEJfAhbykVctLXx1Ujs7IS4EbE/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 2](https://drive.google.com/file/d/1qZiKBCGz-xUXoAZPMTKaqWnmQZm9Kv4E/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 3](https://drive.google.com/file/d/1sAo8BSMO0jvbOG_mq5-xMXcGhptv0pb_/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 4](https://drive.google.com/file/d/1wzNFnQ1u-xCmNeFbPAHP8XXR7Ttw8tyx/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 5](https://drive.google.com/file/d/1nyTB7ol7Tbpzzxjrgkdy_F-P-XbAepZu/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 6](https://drive.google.com/file/d/12m5ty7xcE7O94rzbvZotC0dwV7RdKqf8/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 7](https://drive.google.com/file/d/1InkB_xwBEc4AiKFVxFpwy8ljPK41z_26/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 8](https://drive.google.com/file/d/1TMqx_2kEWeFjKX6MrFQI0WN3MbXoakSt/view?usp=sharing)
+<br>
+<br>
+<br>
+[فیلم 9](https://drive.google.com/file/d/14DMnEp27VCheCKsh8I289PA3Ag6Ylz7a/view?usp=sharing)
+<br>
+<br>
+<br>
+[راهنمای امتحان](https://drive.google.com/file/d/1UcrZeuEaNVKU8LbhO9lIY7kd7I5Obsiq/view)
